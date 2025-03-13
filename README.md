@@ -1,6 +1,7 @@
 # Project1
 ECE 7123- Deep Learning
-Out team: Kajal Gupta, Joe Wang, Zhouli Wu
+Out team: Kajal Gupta, Joe Wang, Zhouli Wu  
+
 The file in each folder:  
   Best:  Store the best models    
   First_Stage:  The models in the first 80 epochs  
