@@ -1,6 +1,6 @@
 # Project1
 ECE 7123- Deep Learning  
-Our team: Kajal Gupta, Joe Wang, Zhouli Wu  
+Our team: Kajal Gupta, Joe Wang, Zhouli Wu(ZW4743)  
 
 The file in each folder:  
 &nbsp;&nbsp;&nbsp;&nbsp;Best:  Store the best models    
