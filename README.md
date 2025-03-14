@@ -9,4 +9,6 @@ The file in each folder:
 &nbsp;&nbsp;&nbsp;&nbsp;**Second_Stage**:  The models in the 81-160 epochs  
 &nbsp;&nbsp;&nbsp;&nbsp;**Pictures**: The loss and accuracy trained in the 2 stages  
 &nbsp;&nbsp;&nbsp;&nbsp;**result**:  The output .csv file using the model to predict the test dataset  
-&nbsp;&nbsp;&nbsp;&nbsp;**src**: The notebook in our experiment  
+&nbsp;&nbsp;&nbsp;&nbsp;**src**: The notebook in our experiment    
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Environemnt**: Pytorch with default version in google colab
