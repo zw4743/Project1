@@ -11,4 +11,4 @@ The file in each folder:
 &nbsp;&nbsp;&nbsp;&nbsp;**result**:  The output .csv file using the model to predict the test dataset  
 &nbsp;&nbsp;&nbsp;&nbsp;**src**: The notebook in our experiment    
 
-&nbsp;&nbsp;**Environemnt**: Pytorch with default version in google colab
+**Environemnt**: Pytorch with default version in google colab
