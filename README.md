@@ -12,6 +12,8 @@ The file in each folder:
 &nbsp;&nbsp;&nbsp;&nbsp;**src**: The notebook in our experiment    
 
 **Environemnt**: Pytorch with default version in google colab    
+
+
 **Tips**:  
 &nbsp;&nbsp;1. Before running the code, you should download the model in "Best" folder or training another model using trainning function.  
 &nbsp;&nbsp;2. Before predicting the test dataset, you should download ".pkl" file in the "data" folder.  
